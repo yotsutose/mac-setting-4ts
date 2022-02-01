@@ -14,4 +14,5 @@
 
 ## To myself in the future
 一応自分のnotionにまとめてあるからその他はこれを見てやること
+
 https://www.notion.so/4ts/my-pc-setup-64e386659617426abc53bcf34249a97a
