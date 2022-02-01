@@ -11,6 +11,7 @@
 - zshのsetoptの追加
 - ls-cd機能
 - homebrewのcaskでchrome,vscode,slack,discordを追加
+- chromeのextention2つ
 
 ## To myself in the future
 一応自分のnotionにまとめてあるからその他はこれを見てやること
