@@ -1,4 +1,4 @@
 #!/bin/sh
 
-cat color.txt >> ~/.zshrc
+cat setopt.txt >> ~/.zshrc
 source ~/.zshrc

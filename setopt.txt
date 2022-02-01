@@ -1,0 +1,13 @@
+# setopt correct # nyae?ってきいてくれる
+setopt no_beep # beep音しない
+setopt complete_in_word
+setopt inc_append_history
+setopt share_history # teminal間でシェア
+
+# alias
+alias open='explorer.exe'
+
+# func cd&ls
+function cd(){
+        builtin cd $@ &&ls;
+}

@@ -6,12 +6,13 @@
 # 現時点での機能
 - ssh-keyからgithubへの登録
 - zshの色つけ
-
-# これから追加したい機能
 - zshのsetoptの追加
 - ls-cd機能
 - homebrewのcaskでchrome,vscode,slack,discordを追加
+
+# これから追加したい機能
 - chromeのextention2つ
+- setoptの一覧からいい感じに
 
 ## To myself in the future
 一応自分のnotionにまとめてあるからその他はこれを見てやること
