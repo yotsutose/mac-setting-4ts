@@ -10,6 +10,7 @@ brew install --cask google-chrome
 brew install --cask visual-studio-code
 brew install --cask slack
 brew install --cask discord
+brew install --cask notion
 
-# brew installや brew upgrade　するたびに前のバージョンをキャッシュしてくれるので
-# brew cleanupしたほうがいい 
+# brew installや brew upgradeするたびに前のバージョンをキャッシュしてくれるので
+# brew cleanupしたほうがいい

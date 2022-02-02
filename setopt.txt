@@ -5,7 +5,7 @@ setopt inc_append_history
 setopt share_history # teminal間でシェア
 
 # alias
-alias open='explorer.exe'
+# alias open='explorer.exe' # windowsのopen
 
 # func cd&ls
 function cd(){
