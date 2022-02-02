@@ -17,6 +17,7 @@
 - homebrewのcaskでchrome,vscode,slack,discordを追加
 
 # これから追加(修正)したい機能
+- タブで補完を下に表示してで選べるようにしたい
 - chromeのextention2つ
 - setoptの一覧からいい感じに
 - 流れをドキュメントにまとめる(それぞれで何が起こるのか書いておく)
