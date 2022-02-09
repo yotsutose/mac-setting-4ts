@@ -1,11 +1,10 @@
 # mac-setting-4ts
 
-## Macの環境構築を爆速で完了させること
-1. このディレクトリごとAirDrop
-2. sh ssh.sh
-3. sh --.sh
-4. sh ---.sh
-
+## Macの環境構築を爆速で完了させる
+1. このディレクトリをZipで落とす
+2. sh homebrew.sh // X-Code関連で時間かかる
+3. sh ssh.sh // sshkeyをGithubに登録する
+4. sh color.sh // shellをカラフルにする、gitが入っていないとポップアップが出る
 
 
 # 現時点での機能
