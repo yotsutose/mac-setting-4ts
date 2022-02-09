@@ -6,6 +6,19 @@
 3. sh ssh.sh // sshkeyをGithubに登録する
 4. sh color.sh // shellをカラフルにする、gitが入っていないとポップアップが出る
 
+Dockerのインストールに失敗した
+```
+######################################################################## 100.0%
+==> Installing Cask docker
+==> Moving App 'Docker.app' to '/Applications/Docker.app'
+==> Linking Binary 'docker-compose.bash-completion' to '/usr/local/etc/bash_completion.d/docker-compose'
+==> Unlinking Binary '/usr/local/etc/bash_completion.d/docker-compose'
+==> Backing App 'Docker.app' up to '/usr/local/Caskroom/docker/4.4.2,73305/Docker.app'
+==> Removing App '/Applications/Docker.app'
+==> Purging files for version 4.4.2,73305 of Cask docker
+Error: It seems there is already a Binary at '/usr/local/share/zsh/site-functions/_docker'.
+```
+
 
 # 現時点での機能
 - ssh-keyからgithubへの登録
