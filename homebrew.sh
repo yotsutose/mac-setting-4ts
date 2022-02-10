@@ -11,6 +11,8 @@ brew install --cask visual-studio-code
 brew install --cask slack
 brew install --cask discord
 brew install --cask notion
+brew install --cask zoom
+brew install --cask anki
 
 # brew installや brew upgradeするたびに前のバージョンをキャッシュしてくれるので
 # brew cleanupしたほうがいい
