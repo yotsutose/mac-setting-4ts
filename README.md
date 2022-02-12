@@ -43,6 +43,24 @@ Error: It seems there is already a Binary at '/usr/local/share/zsh/site-function
 - sourceでzstyleがエラーになったことがあった。。。
 
 ## To myself in the future
-一応自分のnotionにまとめてあるからその他はこれを見てやること
+一応自分のnotionにまとめてあるからその他はこれを見てやること->notionから全てgithubに移行した
+結構githubに上げることができた。
 
-https://www.notion.so/4ts/my-pc-setup-64e386659617426abc53bcf34249a97a
+chrome(追加のextensionを読み込む)
+homebrew
+git
+githubのssh
+vscode(codeコマンドの追加も)
+xcode (mac)
+zshの[色付け](https://bottoms-programming.com/archives/termina-git-branch-name-zsh.html) or zsh-prozto
+oh-my-zsh
+[https://bottoms-programming.com/archives/mac-terminal-to-iterm2.html](https://bottoms-programming.com/archives/mac-terminal-to-iterm2.html)
+zoom
+slack
+discord
+office365(teams・word, excell, powerpoint)
+anki
+自分の顔・アイコン・免許の写真等のファイルのダウンロード
+日本語入力を許可する // [https://qiita.com/shizuma/items/2b2f873a0034839e47ce](https://qiita.com/shizuma/items/2b2f873a0034839e47ce)
+caps lockをcommandかctrlにする // キーボードの装飾キー
+数字を半角入力にする // 入力ソース日本語の下の方
