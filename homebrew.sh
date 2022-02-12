@@ -13,6 +13,9 @@ brew install --cask discord
 brew install --cask notion
 brew install --cask zoom
 brew install --cask anki
+brew install --cask karabiner-elements
 
 # brew installや brew upgradeするたびに前のバージョンをキャッシュしてくれるので
 # brew cleanupしたほうがいい
+
+# docker desctopは入らないかもしれない
