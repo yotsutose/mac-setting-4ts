@@ -15,7 +15,8 @@ brew install --cask slack
 brew install --cask discord
 brew install --cask notion
 brew install --cask zoom
-brew install --cask shiftit
+# brew install --cask shiftit
+brew install --cask spectacle # 動かないかも
 # brew install --cask anki
 # brew install --cask epoccam
 # brew install --cask karabiner-elements
