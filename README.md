@@ -64,3 +64,7 @@ anki
 日本語入力を許可する // [https://qiita.com/shizuma/items/2b2f873a0034839e47ce](https://qiita.com/shizuma/items/2b2f873a0034839e47ce)
 caps lockをcommandかctrlにする // キーボードの装飾キー
 数字を半角入力にする // 入力ソース日本語の下の方
+
+# tips
+finderからvscodeを開く
+https://qiita.com/hiroyuki7/items/a3fcdf943c313473ecee
