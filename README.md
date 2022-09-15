@@ -68,3 +68,6 @@ caps lockをcommandかctrlにする // キーボードの装飾キー
 # tips
 finderからvscodeを開く
 https://qiita.com/hiroyuki7/items/a3fcdf943c313473ecee
+
+alfred導入したい
+https://www.alfredapp.com/
