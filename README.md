@@ -71,3 +71,5 @@ https://qiita.com/hiroyuki7/items/a3fcdf943c313473ecee
 
 alfred導入したい
 https://www.alfredapp.com/
+brew install --cask alfred
+
