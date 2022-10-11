@@ -78,3 +78,6 @@ brew install --cask alfred
 https://github.com/klementtan/alfred-vscode
 ## div
 https://github.com/pawelgrzybek/div
+
+# ocrへの対応(英語だけなのが困る) alfredにも対応してる
+https://github.com/schappim/macOCR
