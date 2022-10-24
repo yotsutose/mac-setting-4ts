@@ -81,3 +81,6 @@ https://github.com/pawelgrzybek/div
 
 # ocrへの対応(英語だけなのが困る) alfredにも対応してる
 https://github.com/schappim/macOCR
+
+# ショートカットを覚える
+https://command-lab.com/
