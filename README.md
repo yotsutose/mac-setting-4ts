@@ -76,11 +76,22 @@ brew install --cask alfred
 # workflow
 ## vscodeでファイルを開く
 https://github.com/klementtan/alfred-vscode
-## div
-https://github.com/pawelgrzybek/div
+## divはいいんだけどhotkeyにすると遅い
+## spectacleの方が優秀　left,right,full,nextwindowまで優秀
+
+# deepl系のやつよさそうなので入れる
 
 # ocrへの対応(英語だけなのが困る) alfredにも対応してる
 https://github.com/schappim/macOCR
 
 # ショートカットを覚える
 https://command-lab.com/
+
+# productivity
+notion必須? 学生は無料でpro
+
+# pocketで音声流す
+
+# 検討中
+grammaly
+1passward
