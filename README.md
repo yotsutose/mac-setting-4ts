@@ -30,6 +30,7 @@ Error: It seems there is already a Binary at '/usr/local/share/zsh/site-function
 - homebrewのcaskでchrome,vscode,slack,discordを追加
 
 # これから追加(修正)したい機能
+- zinitを自動で入れるのとiterm2とicebergテーマ
 - nvm入れてnode使えるようにする
 - https://zenn.dev/tet0h/articles/m1mac-nodejs
 - タブで補完を下に表示してで選べるようにしたい<-これはもうある...
