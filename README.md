@@ -82,8 +82,8 @@ https://github.com/klementtan/alfred-vscode
 
 # deepl系のやつよさそうなので入れる
 
-# ocrへの対応(英語だけなのが困る) alfredにも対応してる
-https://github.com/schappim/macOCR
+# ocr alfredにも対応してる
+https://github.com/amebalabs/TRex
 
 # ショートカットを覚える
 https://command-lab.com/
